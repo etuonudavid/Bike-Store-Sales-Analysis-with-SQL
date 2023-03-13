@@ -53,8 +53,8 @@ This is a flat data and consist of just one table, so no data modelling was done
 ### Code for General Statistics.
 - Mean, Mode, Average, Variance and Standard Deviation of the Age of the customers
 ![](age_stats.JPG)
-age_stats.JPG
 ![](variance_stat_age.JPG)
+
 - General statistics of the Revenue and Quantity columns
 ![](rev_quant_Stat.JPG)
 
